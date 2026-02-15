@@ -5,3 +5,8 @@
 - EDA helped to classify spam and non-spam emails
 - Classify Email Length Distribution
 - Figure out common spam words
+
+## The techniques used are as follows:-
+- Dataset structure (shape, info...)
+- Class Distribution Analysis 
+- Data Visualization (bar charts, line graphs, histograms...)
